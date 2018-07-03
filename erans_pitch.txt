@@ -1,0 +1,5 @@
+1.Universal Shopper profile:Combines shopper data from retailers with user verified prefrences to create a complete view of the customer via on boarding process and purchase history.
+2.User is the owner of the data:Shoppers are in control of user prefrences data and purchase history;Activity Feed:Users control the access of the data.
+3.Sustainable and Profitable industry:Reduce the number of returns
+4.Blockchain:Data is secure through blockchain technology
+5.Token Dynamics:1.5bn tokens.Convereted Dollars and cents of the tokens for the shoppers while retailers pay for the API calls and purchasing the tokens out of the market creating instant utility in the market so that the retailers can gift the users.
